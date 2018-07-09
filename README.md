@@ -5,7 +5,7 @@
 
 ------
 
-**[读书笔记](https://github.com/yeyouluo/java-design/blob/master/strategy/Note.md)**
+**[读书笔记](https://github.com/yeyouluo/java-design/blob/master/Note.md)**
 
 ------
 
