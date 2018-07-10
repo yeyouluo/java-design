@@ -51,7 +51,7 @@
 - 创建型模式：<u>*专注生产对象，不直接使用new*</u>
   - [工厂方法模式](https://github.com/yeyouluo/java-design/tree/master/factory-method)
   - 抽象工厂模式
-  - 原型模式
+  - [原型模式](https://github.com/yeyouluo/java-design/tree/master/prototype)
   - 建造者模式
   - 单例模式
 - 结构型模式：*<u>关注类和对象的组合</u>*
