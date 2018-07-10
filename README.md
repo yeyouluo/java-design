@@ -49,7 +49,7 @@
 
 ​           [简单工厂模式](https://github.com/yeyouluo/java-design/tree/master/simple-facotory)
 - 创建型模式：<u>*专注生产对象，不直接使用new*</u>
-  - 工厂方法模式
+  - [工厂方法模式](https://github.com/yeyouluo/java-design/tree/master/factory-method)
   - 抽象工厂模式
   - 原型模式
   - 建造者模式
@@ -61,7 +61,7 @@
   - [装饰器模式](https://github.com/yeyouluo/java-design/tree/master/decorator)
   - 外观模式
   - 享元模式
-  - 代理模式
+  - [代理模式](https://github.com/yeyouluo/java-design/tree/master/proxy)
 - 行为模式（类行为型模式）：*<u>关注对象之间的通信</u>*
   - 解释器模式
   - 模板方法模式
