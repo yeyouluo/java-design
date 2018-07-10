@@ -12,6 +12,7 @@
         <module>simple-facotory</module>
         <module>strategy</module>
         <module>decorator</module>
+        <module>proxy</module>
     </modules>
 
 </project>
