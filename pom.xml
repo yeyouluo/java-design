@@ -17,6 +17,7 @@
         <module>prototype</module>
         <module>template</module>
         <module>facade</module>
+        <module>builder</module>
     </modules>
 
 </project>
