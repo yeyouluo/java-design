@@ -59,12 +59,12 @@
   - 桥接模式
   - 组合模式
   - [装饰器模式](https://github.com/yeyouluo/java-design/tree/master/decorator)
-  - 外观模式
+  - [外观模式](https://github.com/yeyouluo/java-design/tree/master/facade)
   - 享元模式
   - [代理模式](https://github.com/yeyouluo/java-design/tree/master/proxy)
 - 行为模式（类行为型模式）：*<u>关注对象之间的通信</u>*
   - 解释器模式
-  - 模板方法模式
+  - [模板方法模式](https://github.com/yeyouluo/java-design/tree/master/template)
 - 行为模式（对象行为型模式）：*<u>关注对象之间的通信</u>*
   - [策略模式](https://github.com/yeyouluo/java-design/tree/master/strategy)
   - 观察者模式

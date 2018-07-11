@@ -16,6 +16,7 @@
         <module>factory-method</module>
         <module>prototype</module>
         <module>template</module>
+        <module>facade</module>
     </modules>
 
 </project>
