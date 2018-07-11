@@ -67,7 +67,7 @@
   - [模板方法模式](https://github.com/yeyouluo/java-design/tree/master/template)
 - 行为模式（对象行为型模式）：*<u>关注对象之间的通信</u>*
   - [策略模式](https://github.com/yeyouluo/java-design/tree/master/strategy)
-  - 观察者模式
+  - [观察者模式](https://github.com/yeyouluo/java-design/tree/master/observer)
   - 状态模式
   - 备忘录模式
   - 迭代器模式
