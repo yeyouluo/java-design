@@ -52,7 +52,7 @@
   - [工厂方法模式](https://github.com/yeyouluo/java-design/tree/master/factory-method)
   - 抽象工厂模式
   - [原型模式](https://github.com/yeyouluo/java-design/tree/master/prototype)
-  - 建造者模式
+  - [建造者模式](https://github.com/yeyouluo/java-design/tree/master/builder)
   - 单例模式
 - 结构型模式：*<u>关注类和对象的组合</u>*
   - 适配器模式

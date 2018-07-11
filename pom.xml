@@ -18,6 +18,7 @@
         <module>template</module>
         <module>facade</module>
         <module>builder</module>
+        <module>observer</module>
     </modules>
 
 </project>
