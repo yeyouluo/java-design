@@ -15,6 +15,7 @@
         <module>proxy</module>
         <module>factory-method</module>
         <module>prototype</module>
+        <module>template</module>
     </modules>
 
 </project>
