@@ -50,7 +50,7 @@
 ​           [简单工厂模式](https://github.com/yeyouluo/java-design/tree/master/simple-facotory)
 - 创建型模式：<u>*专注生产对象，不直接使用new*</u>
   - [工厂方法模式](https://github.com/yeyouluo/java-design/tree/master/factory-method)
-  - 抽象工厂模式
+  - [抽象工厂模式](https://github.com/yeyouluo/java-design/tree/master/abstract-factory)
   - [原型模式](https://github.com/yeyouluo/java-design/tree/master/prototype)
   - [建造者模式](https://github.com/yeyouluo/java-design/tree/master/builder)
   - 单例模式
@@ -79,3 +79,4 @@
 ## 设计模式其他有价值的参考资料
 
 - [菜鸟教程：设计模式](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+- [芋道源码：设计模式](http://www.iocoder.cn/DesignPattern/good-collection/)

@@ -19,6 +19,7 @@
         <module>facade</module>
         <module>builder</module>
         <module>observer</module>
+        <module>abstract-factory</module>
     </modules>
 
 </project>
