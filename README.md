@@ -55,7 +55,7 @@
   - [建造者模式](https://github.com/yeyouluo/java-design/tree/master/builder)
   - 单例模式
 - 结构型模式：*<u>关注类和对象的组合</u>*
-  - 适配器模式
+  - [适配器模式](https://github.com/yeyouluo/java-design/tree/master/adapter)
   - 桥接模式
   - 组合模式
   - [装饰器模式](https://github.com/yeyouluo/java-design/tree/master/decorator)
@@ -68,7 +68,7 @@
 - 行为模式（对象行为型模式）：*<u>关注对象之间的通信</u>*
   - [策略模式](https://github.com/yeyouluo/java-design/tree/master/strategy)
   - [观察者模式](https://github.com/yeyouluo/java-design/tree/master/observer)
-  - 状态模式
+  - [状态模式](https://github.com/yeyouluo/java-design/tree/master/state)
   - 备忘录模式
   - 迭代器模式
   - 命令模式
