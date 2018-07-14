@@ -69,7 +69,7 @@
   - [策略模式](https://github.com/yeyouluo/java-design/tree/master/strategy)
   - [观察者模式](https://github.com/yeyouluo/java-design/tree/master/observer)
   - [状态模式](https://github.com/yeyouluo/java-design/tree/master/state)
-  - 备忘录模式
+  - [备忘录模式](https://github.com/yeyouluo/java-design/tree/master/memento)
   - 迭代器模式
   - 命令模式
   - 职责链模式
