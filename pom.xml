@@ -32,6 +32,7 @@
         <module>mediator</module>
         <module>flyweight</module>
         <module>interpreter</module>
+        <module>visitor</module>
     </modules>
 
 </project>
