@@ -28,6 +28,7 @@
         <module>singleton</module>
         <module>bridge</module>
         <module>command</module>
+        <module>responsibility-chain</module>
     </modules>
 
 </project>

@@ -72,7 +72,7 @@
   - [备忘录模式](https://github.com/yeyouluo/java-design/tree/master/memento)
   - [迭代器模式](https://github.com/yeyouluo/java-design/tree/master/iteractor)
   - [命令模式](https://github.com/yeyouluo/java-design/tree/master/command)
-  - 职责链模式
+  - [责任链模式](https://github.com/yeyouluo/java-design/tree/master/responsibility-chain)
   - 中介者模式
   - 访问者模式
 
