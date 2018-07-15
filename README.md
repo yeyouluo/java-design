@@ -56,7 +56,7 @@
   - [单例模式](https://github.com/yeyouluo/java-design/tree/master/singleton)
 - 结构型模式：*<u>关注类和对象的组合</u>*
   - [适配器模式](https://github.com/yeyouluo/java-design/tree/master/adapter)
-  - 桥接模式
+  - [桥接模式](https://github.com/yeyouluo/java-design/tree/master/bridge)
   - [组合模式](https://github.com/yeyouluo/java-design/tree/master/composite)
   - [装饰器模式](https://github.com/yeyouluo/java-design/tree/master/decorator)
   - [外观模式](https://github.com/yeyouluo/java-design/tree/master/facade)

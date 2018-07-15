@@ -26,6 +26,7 @@
         <module>composite</module>
         <module>iteractor</module>
         <module>singleton</module>
+        <module>bridge</module>
     </modules>
 
 </project>
