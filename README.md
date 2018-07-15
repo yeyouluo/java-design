@@ -63,7 +63,7 @@
   - [享元模式](https://github.com/yeyouluo/java-design/tree/master/flyweight)
   - [代理模式](https://github.com/yeyouluo/java-design/tree/master/proxy)
 - **行为模式（类行为型模式）**：*<u>关注对象之间的通信</u>*
-  - 解释器模式
+  - [解释器模式](https://github.com/yeyouluo/java-design/tree/master/interpreter)
   - [模板方法模式](https://github.com/yeyouluo/java-design/tree/master/template)
 - **行为模式（对象行为型模式）**：*<u>关注对象之间的通信</u>*
   - [策略模式](https://github.com/yeyouluo/java-design/tree/master/strategy)
