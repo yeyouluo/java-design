@@ -48,24 +48,24 @@
 ### 设计模式分类
 
 ​           [简单工厂模式](https://github.com/yeyouluo/java-design/tree/master/simple-facotory)
-- 创建型模式：<u>*专注生产对象，不直接使用new*</u>
+- **创建型模式**：<u>*专注生产对象，不直接使用new*</u>
   - [工厂方法模式](https://github.com/yeyouluo/java-design/tree/master/factory-method)
   - [抽象工厂模式](https://github.com/yeyouluo/java-design/tree/master/abstract-factory)
   - [原型模式](https://github.com/yeyouluo/java-design/tree/master/prototype)
   - [建造者模式](https://github.com/yeyouluo/java-design/tree/master/builder)
   - [单例模式](https://github.com/yeyouluo/java-design/tree/master/singleton)
-- 结构型模式：*<u>关注类和对象的组合</u>*
+- **结构型模式**：*<u>关注类和对象的组合</u>*
   - [适配器模式](https://github.com/yeyouluo/java-design/tree/master/adapter)
   - [桥接模式](https://github.com/yeyouluo/java-design/tree/master/bridge)
   - [组合模式](https://github.com/yeyouluo/java-design/tree/master/composite)
   - [装饰器模式](https://github.com/yeyouluo/java-design/tree/master/decorator)
   - [外观模式](https://github.com/yeyouluo/java-design/tree/master/facade)
-  - 享元模式
+  - [享元模式](https://github.com/yeyouluo/java-design/tree/master/flyweight)
   - [代理模式](https://github.com/yeyouluo/java-design/tree/master/proxy)
-- 行为模式（类行为型模式）：*<u>关注对象之间的通信</u>*
+- **行为模式（类行为型模式）**：*<u>关注对象之间的通信</u>*
   - 解释器模式
   - [模板方法模式](https://github.com/yeyouluo/java-design/tree/master/template)
-- 行为模式（对象行为型模式）：*<u>关注对象之间的通信</u>*
+- **行为模式（对象行为型模式）**：*<u>关注对象之间的通信</u>*
   - [策略模式](https://github.com/yeyouluo/java-design/tree/master/strategy)
   - [观察者模式](https://github.com/yeyouluo/java-design/tree/master/observer)
   - [状态模式](https://github.com/yeyouluo/java-design/tree/master/state)

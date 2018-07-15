@@ -30,6 +30,7 @@
         <module>command</module>
         <module>responsibility-chain</module>
         <module>mediator</module>
+        <module>flyweight</module>
     </modules>
 
 </project>
