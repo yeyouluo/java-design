@@ -25,6 +25,7 @@
         <module>memento</module>
         <module>composite</module>
         <module>iteractor</module>
+        <module>singleton</module>
     </modules>
 
 </project>
