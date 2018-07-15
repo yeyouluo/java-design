@@ -71,7 +71,7 @@
   - [状态模式](https://github.com/yeyouluo/java-design/tree/master/state)
   - [备忘录模式](https://github.com/yeyouluo/java-design/tree/master/memento)
   - [迭代器模式](https://github.com/yeyouluo/java-design/tree/master/iteractor)
-  - 命令模式
+  - [命令模式](https://github.com/yeyouluo/java-design/tree/master/command)
   - 职责链模式
   - 中介者模式
   - 访问者模式
