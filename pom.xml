@@ -23,6 +23,7 @@
         <module>state</module>
         <module>adapter</module>
         <module>memento</module>
+        <module>composite</module>
     </modules>
 
 </project>
