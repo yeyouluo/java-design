@@ -70,7 +70,7 @@
   - [观察者模式](https://github.com/yeyouluo/java-design/tree/master/observer)
   - [状态模式](https://github.com/yeyouluo/java-design/tree/master/state)
   - [备忘录模式](https://github.com/yeyouluo/java-design/tree/master/memento)
-  - 迭代器模式
+  - [迭代器模式](https://github.com/yeyouluo/java-design/tree/master/iteractor)
   - 命令模式
   - 职责链模式
   - 中介者模式
