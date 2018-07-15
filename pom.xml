@@ -29,6 +29,7 @@
         <module>bridge</module>
         <module>command</module>
         <module>responsibility-chain</module>
+        <module>mediator</module>
     </modules>
 
 </project>

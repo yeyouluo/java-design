@@ -73,7 +73,7 @@
   - [迭代器模式](https://github.com/yeyouluo/java-design/tree/master/iteractor)
   - [命令模式](https://github.com/yeyouluo/java-design/tree/master/command)
   - [责任链模式](https://github.com/yeyouluo/java-design/tree/master/responsibility-chain)
-  - 中介者模式
+  - [中介者模式](https://github.com/yeyouluo/java-design/tree/master/mediator)
   - 访问者模式
 
 ## 设计模式其他有价值的参考资料
