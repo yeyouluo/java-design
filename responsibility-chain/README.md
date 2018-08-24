@@ -6,3 +6,6 @@ Handler 里面聚合它自己，在 HanleRequest 里判断是否合适，如果�
 
 ### 注意事项
 不能保证请求一定被处理，有可能到了链的末端还得不到处理，因此需要考虑全面。 
+
+### Apache commons chain实现
+Commons Chain对责任链模式做了实现。参考[官网](https://commons.apache.org/proper/commons-chain/)。
